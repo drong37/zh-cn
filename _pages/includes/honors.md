@@ -1,3 +1,5 @@
+<span class='anchor' id='honors-and-awards'></span>
+
 # Honors and Awards
   - *2023.10* National Scholarship for Graduate Students
   - *2023.10* Outstanding Student of China University of Mining and Technology
