@@ -1,20 +1,17 @@
 # main links links
 main:
-  - title: "<b>About Me</b>"
-    url: "/#about-me"
+  - title: "<b>简介</b>"
+    url: "/zh-cn/#about-me"
     
-  - title: "<b>Educations</b>"
-    url: "/#educations"
+  - title: "<b>教育经历</b>"
+    url: "/zh-cn/#educations"
 
 
-  - title: "<b>Publications</b>"
-    url: "/#publications"
+  - title: "<b>论文与专利</b>"
+    url: "/zh-cn/#publications"
 
-  - title: "<b>Honors and Awards</b>"
-    url: "/#honors-and-awards"
-
-  - title: "<b>News</b>"
-    url: "/#news"
+  - title: "<b>荣誉与奖项</b>"
+    url: "/zh-cn/#honors-and-awards"
     
-  - title: "<b>Visitor Map</b>"
-    url: "/#visitor-map"
+  - title: "<b>访客地图</b>"
+    url: "/zh-cn/#visitor-map"
