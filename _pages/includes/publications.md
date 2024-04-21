@@ -1,6 +1,6 @@
 <span class='anchor' id='publications'></span>
 
-# Publications
+# 论文与专利
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Case Studies in Thermal Engineering
   </div><img src='images/pub4.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
