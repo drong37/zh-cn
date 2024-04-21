@@ -1,4 +1,4 @@
-<span class='anchor' id='visitor map'></span>
+<span class='anchor' id='visitor-map'></span>
 
 # 访客地图
 
