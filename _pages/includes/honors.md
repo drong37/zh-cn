@@ -1,9 +1,9 @@
 <span class='anchor' id='honors-and-awards'></span>
 
 # 荣誉与奖项
-  - *2023.10* National Scholarship for Graduate Students
-  - *2023.10* Outstanding Student of China University of Mining and Technology
-  - *2023.05*	Provincial-Level Second Prize in the ‘Black Technology’ Special Competition of the 18th "Challenge Cup" National University Student Extracurricular Academic Science and Technology Work Competition
-  - *2022.05*	Winner of Best Postgraduate Student Award in the XVIII International Forum-Contest of Students and Young Researchers
-  - *2020.11*	First Prize in the 6th National Safety Science and Engineering University Student Practical and Innovative Work Competition	November 2020
-  - *2018.10* China National Encouragement Scholarship
+  - *2023.10* 研究生国家奖学金
+  - *2023.10* 中国矿业大学优秀学士
+  - *2023.05*	第十八届“挑战杯”全国大学生课外学术科技作品竞赛“黑科技”江苏省级二等奖
+  - *2022.05*	第十八届学生与青年学者国际论坛最佳硕士研究生奖获得者
+  - *2020.11*	第六届全国安全科学与工程大学生实践与创新作品竞赛一等奖
+  - *2018.10* 国家励志奖学金
