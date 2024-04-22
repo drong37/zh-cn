@@ -1,4 +1,2 @@
-  
-  I'm a PhD student at the Department of Building Environment and Energy Engineering, PolyU <img src='./images/BEEE-logo.png' style='width: 6em;'> now in Hong Kong. I received my Master's Degree and Bachelor's Degree from the School of Safety Engineering, CUMT <img src='./images/sse-logo-blue.png' style='width: 6em;'>. 
-  
-  My research topic focuses on fire detection and control, especial about aerial remote sensing of 3D thermal mapping. 
+我目前在香港理工大学建筑环境及能源工程系<img src='./images/BEEE-logo.png' style='width: 6em;'>攻读博士学位，本科与硕士均毕业于中国矿业大学安全工程学院<img src='./images/sse-logo-blue.png' style='width: 6em;'>。
+
