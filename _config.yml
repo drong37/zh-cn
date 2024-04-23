@@ -15,7 +15,7 @@ baidu_site_verification  :     # get baidu_site_verification from https://ziyuan
 # Site Author
 author:
   name             : "邓 榕"
-  avatar           : "images/dr_profile.jpg"
+  avatar           : "images/dr_profile.png"
   bio              : "The Hong Kong Polytechnic University"
   location         : "Hong Kong"
   employer         :
